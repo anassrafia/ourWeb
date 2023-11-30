@@ -1,0 +1,19 @@
+[
+    {
+        "icon_src":"fa fa-desktop",
+        "title":"Web Devloper",
+        "text":"Developing websites or other multimedia applications. Dealing with Databases and most famous Frameworks like React and PWA"    
+    },
+
+    {
+        "icon_src":"fa fa-bar-chart",
+        "title":"Graphic Designer",
+        "text":"From plan, draft and design media, advertisements, commercials, company logos to websites or complete virtual scenarios."    
+    },
+
+    {
+        "icon_src":"fa fa-connectdevelop",
+        "title":"Software developer",
+        "text":"Developing Android and Desktop apps in different programming languages With high quality, with the latest developments"    
+    }
+]
